@@ -39,7 +39,7 @@ tic-tac-toe-game
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/tic-tac-toe-game.git
+git clone https://github.com/NishantPatil787/tic-tac-toe-game.git
 
 ### 2️⃣ Go to the project folder
 
